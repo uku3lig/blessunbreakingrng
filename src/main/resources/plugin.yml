@@ -1,0 +1,6 @@
+name: BlessUnbreakingRNG
+version: '${version}'
+main: net.uku3lig.blessunbreakingrng.BlessUnbreakingRNG
+api-version: 1.17
+authors: [ uku ]
+description: makes unbreaking not random
